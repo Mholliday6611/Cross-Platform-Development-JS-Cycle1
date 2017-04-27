@@ -1,0 +1,39 @@
+	{
+		"movies":[
+			{
+				"name": "Power Rangers",
+				"genre": "Action",
+				"year": 2017
+			},
+			{
+				"name": "DeadPool",
+				"genre": "Action",
+				"year": 2016
+			},
+			{
+				"name": "Fight Club",
+				"genre": "Drama",
+				"year": 1999
+			},
+			{
+				"name": "Hercules",
+				"genre": "Animation",
+				"year": 1997
+			},
+			{
+				"name": "Adventures in Babysitting",
+				"genre": "Action",
+				"year": 1987
+			},
+			{
+				"name": "Dope",
+				"genre": "Drama",
+				"year": 2015
+			},
+			{
+				"name": "Dredd",
+				"genre": "Action",
+				"year": 2012
+			}
+		]
+	}
